@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ransomhall/ransomhall.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+<img style="border:2px solid black;" class="image" src="/assets/headshot.png" alt="A Picture of Me" height=200px >
+<h2 align="center">Eric Hall</h2>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Professional Profile
 
-### Markdown
+#### Highlights
+- 20+ years software engineering experience
+- Certified AWS Solution Architect - Associate
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Current Areas of Interest
+- Serverless Workflow Orchestration
+- Event Driven Architecture
+- Application Observability
+- AWS Cost Optimization
 
-```markdown
-Syntax highlighted code block
+#### Programming Languages*
 
-# Header 1
-## Header 2
-### Header 3
+| Language | Years |
+| -------- | ----- |
+| Typescript | 2 |
+| Javascript | 2 |
+| Kotlin     | 3 |
+| Java       | 6 |
+| C#         | 12|
+**most recent first*
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Side Gigs
+- [The Things Network Community Initiator](https://www.thethingsnetwork.org/community/burlington/)
+- [Maker and STEM Educator](https://generatorvt.com/)
+- Citizen Science 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ransomhall/ransomhall.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--- 
+[![Build](https://img.shields.io/badge/build-passing-yes>.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ransomhall/ransomhall.github.io/graphs/commit-activity) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
