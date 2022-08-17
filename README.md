@@ -4,34 +4,51 @@
 <h2 align="center">Eric Hall</h2>
 </p>
 
+---
 ## Professional Profile
 
 #### Highlights
-- 20+ years software engineering experience
-- Certified AWS Solution Architect - Associate
+* 20+ years software engineering experience in a variety of domains:
+  * Automotive
+  * Health Care
+  * Nonprofit Research
+  * Small Businesss Consulting 
+* Certified AWS Solution Architect - Associate
+* Agile Scrum Team Lead
 
 #### Current Areas of Interest
 - Serverless Workflow Orchestration
 - Event Driven Architecture
 - Application Observability
-- AWS Cost Optimization
+- Infrastructure as Code (IaC)
+- Continuous Integration and Deployment
 
-#### Programming Languages*
+#### Primary Programming Languages*
 
 | Language | Years |
 | -------- | ----- |
 | Typescript | 2 |
-| Javascript | 2 |
 | Kotlin     | 3 |
 | Java       | 6 |
 | C#         | 12|
+
 **most recent first*
 
+#### Notable Tools of the Trade
+
+| Tool      | Type |
+| ----      | ----- |
+| Terraform | IaC            |
+| AWS CDK   | IaC            |
+| Node      | Runtime        |
+| Spring    | Java Framework |
+| New Relic | Monitoring     |
+| Splunk    | Log Aggregation |
 
 #### Side Gigs
-- [The Things Network Community Initiator](https://www.thethingsnetwork.org/community/burlington/)
+- [Open Source IoT using LoRaWAN](https://www.thethingsnetwork.org/)
+- [Environmental Remote Sensing](https://www.envirodiy.org/about/)
 - [Maker and STEM Educator](https://generatorvt.com/)
-- Citizen Science 
 
 --- 
-[![Build](https://img.shields.io/badge/build-passing-yes>.svg)](https://shields.io/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ransomhall/ransomhall.github.io/graphs/commit-activity) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+<a href="https://www.linkedin.com/in/eric-hall-931747176"><img src="/assets/LinkedIn.svg" alt="LinkedIn" style="height:32px;"/></a> <a href="http://github.com/ransomhall"><img src="/assets/Github-Mark-32px.png" alt="Github"/></a> 
