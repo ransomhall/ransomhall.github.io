@@ -44,6 +44,7 @@
 | Github Actions | CI/CD          |
 | New Relic      | Observability  |
 | Splunk         | Log Aggregation|
+
 **not a complete list*
 ### Side Gigs
 - [Open Source IoT using LoRaWAN](https://www.thethingsnetwork.org/)
