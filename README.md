@@ -24,7 +24,7 @@
 - [Infrastructure as Code](https://docs.aws.amazon.com/whitepapers/latest/introduction-devops-aws/infrastructure-as-code.html) with [AWS CDK](https://aws.amazon.com/cdk/)
 - [Continuous Integration and Deployment](https://docs.aws.amazon.com/pdfs/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.pdf)
 
-### Primary Programming Languages*
+### Primary Programming Languages
 
 | Language | Years |
 | -------- | ----- |
@@ -35,10 +35,10 @@
 
 **most recent first*
 
-### Tools of the Trade*
+### Tools of the Trade
 
-| Tool           | Type           |
-| ----           | -----          |
+| Tool | Type |
+| ---- | ---- |
 | AWS CDK        | IaC            |
 | Terraform      | IaC            |
 | Github Actions | CI/CD          |
